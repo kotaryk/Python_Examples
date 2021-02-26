@@ -11,6 +11,6 @@ Midterm project to create tic-tac-toe game for player vs. computer, with ability
 
 Project 1: From BF550, Foundations of Programming, Data Analytics, and Machine Learning in Python
 
-Final project to use python to reproduce figures from a biological research paper.
+Final project using python to reproduce figures from a biological research paper.
 
 Bergmann's Rule rules body size in an ectotherm: heat conservation in a lizard along a 2200‐metre elevational gradient (Zamora‐Camacho et al.) 
